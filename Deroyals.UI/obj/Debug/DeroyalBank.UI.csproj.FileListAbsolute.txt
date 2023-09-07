@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\Deroyals.UI\obj\Debug\DeroyalBank.UI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\Deroyals.UI\obj\Debug\DeroyalBank.UI.csproj.CoreCompileInputs.cache

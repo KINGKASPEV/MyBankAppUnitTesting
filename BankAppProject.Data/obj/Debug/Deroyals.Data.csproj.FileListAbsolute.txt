@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\bin\Debug\BankAppProject.Data.dll
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\bin\Debug\BankAppProject.Data.pdb
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\Deroyals.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\Deroyals.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\BankAppProject.Data.dll
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\BankAppProject.Data.pdb

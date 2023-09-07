@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\bin\Debug\BankAppProject.Core.dll
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\bin\Debug\BankAppProject.Core.pdb
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\bin\Debug\BankAppProject.Data.dll
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\bin\Debug\Common.dll
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\bin\Debug\BankAppProject.Data.pdb
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\bin\Debug\Common.pdb
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\obj\Debug\DeroyalBank.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\obj\Debug\DeroyalBank.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\obj\Debug\DeroyalBank.Core.csproj.CopyComplete
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\obj\Debug\BankAppProject.Core.dll
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Core\obj\Debug\BankAppProject.Core.pdb

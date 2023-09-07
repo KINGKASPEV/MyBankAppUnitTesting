@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject\obj\Debug\Common.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject\obj\Debug\BankAppProject.exe
+C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject\obj\Debug\BankAppProject.pdb

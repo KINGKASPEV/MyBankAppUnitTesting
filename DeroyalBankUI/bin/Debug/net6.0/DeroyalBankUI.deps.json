@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeroyalBankUI/1.0.0": {
+        "dependencies": {
+          "DeroyalBank.Core": "1.0.0"
+        },
+        "runtime": {
+          "DeroyalBankUI.dll": {}
+        }
+      },
+      "DeroyalBank.Core/1.0.0": {
+        "dependencies": {
+          "DeroyalBank.Data": "1.0.0",
+          "DeroyalBank.Model": "1.0.0"
+        },
+        "runtime": {
+          "BankAppProject.Core.dll": {}
+        }
+      },
+      "DeroyalBank.Data/1.0.0": {
+        "dependencies": {
+          "DeroyalBank.Model": "1.0.0"
+        },
+        "runtime": {
+          "BankAppProject.Data.dll": {}
+        }
+      },
+      "DeroyalBank.Model/1.0.0": {
+        "runtime": {
+          "Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeroyalBankUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeroyalBank.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeroyalBank.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeroyalBank.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
