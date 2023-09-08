@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8+2CfGbtPrfpF3jn2E8lcmp/0JAfibzd0vWzZWdOs5r+YzmiXmFjyPgjKsVeGzFBIb7s3mECgbm56+R/5hh0pA==",
+  "dgSpecHash": "EefX/WAAJhahlLncteXbdOArtqNORvbVJLTSD9CFNbmYmWttf7JQ0++lfIsIFP+VsksCgjSoTY6T4CSsvXGN6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\week-3-task-KINGKASPEV\\DeroyalBankCoreTesting\\DeroyalBankTesting.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\MyBankAppUnitTesting\\DeroyalBankCoreTesting\\DeroyalBankTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

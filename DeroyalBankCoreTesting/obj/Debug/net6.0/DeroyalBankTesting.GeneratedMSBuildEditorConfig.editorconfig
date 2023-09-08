@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DeroyalBankTesting
-build_property.ProjectDir = C:\Users\user\Desktop\week-3-task-KINGKASPEV\DeroyalBankCoreTesting\
+build_property.ProjectDir = C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBankCoreTesting\
