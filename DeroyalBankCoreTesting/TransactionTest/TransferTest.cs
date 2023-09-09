@@ -32,8 +32,6 @@ namespace DeroyalBankTesting.TransactionTest
             Assert.True(result); // Transfer should succeed
             Assert.Equal(1000.0, customerList[accountNumber].balance); // Sender's balance should be updated
             Assert.Equal(1000.0, customerList[recipientAccountNumber].balance); // Recipient's balance should be updated
-
-
         }
     }
 }

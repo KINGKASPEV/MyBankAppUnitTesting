@@ -7,3 +7,12 @@ C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\Deroy
 C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\DeroyalBank.Data.csproj.CopyComplete
 C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\BankAppProject.Data.dll
 C:\Users\user\Desktop\week-3-task-KINGKASPEV\BankAppProject.Data\obj\Debug\BankAppProject.Data.pdb
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\bin\Debug\BankAppProject.Data.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\bin\Debug\BankAppProject.Data.pdb
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\bin\Debug\Common.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\bin\Debug\Common.pdb
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\obj\Debug\DeroyalBank.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\obj\Debug\DeroyalBank.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\obj\Debug\DeroyalBank.Data.csproj.CopyComplete
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\obj\Debug\BankAppProject.Data.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\BankAppProject.Data\obj\Debug\BankAppProject.Data.pdb

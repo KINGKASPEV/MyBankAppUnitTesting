@@ -9,9 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeroyalBank.Data", "BankApp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeroyalBank.Model", "Common\DeroyalBank.Model.csproj", "{24440C37-F8A8-4748-940E-1F9F63B9FB7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeroyalBankUI", "DeroyalBankUI\DeroyalBankUI.csproj", "{E213D627-76E6-4B89-A1FF-66803B547AA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeroyalBankUI", "DeroyalBankUI\DeroyalBankUI.csproj", "{E213D627-76E6-4B89-A1FF-66803B547AA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeroyalBankTesting", "DeroyalBankCoreTesting\DeroyalBankTesting.csproj", "{8F202621-9CA2-4DAB-A068-6EEE5053AA1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeroyalBankTesting", "DeroyalBankCoreTesting\DeroyalBankTesting.csproj", "{8F202621-9CA2-4DAB-A068-6EEE5053AA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeroyalBank.Common", "DeroyalBank.Common\DeroyalBank.Common.csproj", "{0F168D5E-A717-45AC-856D-8D695809C605}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8F202621-9CA2-4DAB-A068-6EEE5053AA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F202621-9CA2-4DAB-A068-6EEE5053AA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F202621-9CA2-4DAB-A068-6EEE5053AA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F168D5E-A717-45AC-856D-8D695809C605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F168D5E-A717-45AC-856D-8D695809C605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F168D5E-A717-45AC-856D-8D695809C605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F168D5E-A717-45AC-856D-8D695809C605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

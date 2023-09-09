@@ -19,7 +19,6 @@ namespace DeroyalBankTesting.CreateAccountTest
         [InlineData("missingdot@com", false)]
         public void IsValidEmail_ValidatesEmail(string email, bool expectedIsValid)
         {
-            // Arrange
 
             // Act
             bool isValid = CreateAccount.IsValidEmail(email);

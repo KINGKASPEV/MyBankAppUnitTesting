@@ -21,11 +21,10 @@ namespace DeroyalBankTesting.CreateAccountTest
         [InlineData("P@ssw0rd!", true)]    // Valid password with special characters
         public void IsValidPassword_ValidatesPassword(string password, bool expectedIsValid)
         {
-            //var validationInstance = new CreateCustomerAccount(); // Replace with the actual class name
-            bool isValid = CreateAccount.IsValidPassword(password);
             // Act
-            //bool isValid = IsValidPassword(password);
-
+            bool isValid = CreateAccount.IsValidPassword(password);
+           
+           
             // Assert
             Assert.Equal(expectedIsValid, isValid);
         }

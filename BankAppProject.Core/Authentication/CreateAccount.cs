@@ -28,8 +28,6 @@ namespace DeroyalBank.Core
             Console.Clear();
 
             AccountType accountType;
-            //AccountType? ConvertStringToAccountType(string input)
-            //{
 
                 switch (acctype)
                 {
@@ -43,7 +41,7 @@ namespace DeroyalBank.Core
                         Console.WriteLine("Invalid account type. Please select S for Savings or C for Current.");
                         return;
                 }
-            //}
+            
             string accountNumber = Transactions.GenerateNewAccountNumber();
             if (ListOfCustomers.IsEmailUsed(email))
             {

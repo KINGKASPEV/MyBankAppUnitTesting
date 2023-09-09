@@ -4,3 +4,9 @@ C:\Users\user\Desktop\week-3-task-KINGKASPEV\Common\obj\Debug\DeroyalBank.Model.
 C:\Users\user\Desktop\week-3-task-KINGKASPEV\Common\obj\Debug\DeroyalBank.Model.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\week-3-task-KINGKASPEV\Common\obj\Debug\Common.dll
 C:\Users\user\Desktop\week-3-task-KINGKASPEV\Common\obj\Debug\Common.pdb
+C:\Users\user\Desktop\MyBankAppUnitTesting\Common\obj\Debug\DeroyalBank.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MyBankAppUnitTesting\Common\obj\Debug\DeroyalBank.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyBankAppUnitTesting\Common\obj\Debug\Common.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\Common\obj\Debug\Common.pdb
+C:\Users\user\Desktop\MyBankAppUnitTesting\Common\bin\Debug\Common.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\Common\bin\Debug\Common.pdb

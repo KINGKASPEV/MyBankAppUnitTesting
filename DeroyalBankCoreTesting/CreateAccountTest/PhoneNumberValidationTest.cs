@@ -19,7 +19,6 @@ namespace DeroyalBankTesting.CreateAccountTest
         [InlineData("123456789012", false)] // phone number must have exactly 11 digits
         public void isvalidphonenumber_validatesphonenumber(string phonenumber, bool expectedisvalid)
         {
-            // arrange
 
             // act
             bool isvalid = CreateAccount.IsValidPhoneNumber(phonenumber);

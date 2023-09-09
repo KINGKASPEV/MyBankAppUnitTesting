@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\bin\Debug\net6.0\DeroyalBank.Common.deps.json
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\bin\Debug\net6.0\DeroyalBank.Common.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\bin\Debug\net6.0\DeroyalBank.Common.pdb
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\DeroyalBank.Common.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\DeroyalBank.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\DeroyalBank.Common.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\DeroyalBank.Common.AssemblyInfo.cs
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\DeroyalBank.Common.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\DeroyalBank.Common.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\refint\DeroyalBank.Common.dll
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\DeroyalBank.Common.pdb
+C:\Users\user\Desktop\MyBankAppUnitTesting\DeroyalBank.Common\obj\Debug\net6.0\ref\DeroyalBank.Common.dll

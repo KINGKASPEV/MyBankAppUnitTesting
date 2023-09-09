@@ -100,7 +100,11 @@ namespace DeroyalBank.Core
                 Console.WriteLine("Invalid amount. Please enter a valid amount.");
                 return false;
             }
-
+            if (accountNumber == recipientAccountNumber)
+            {
+                Console.WriteLine("You cannot send money to yourself.");
+                return false;
+            }
             if (senderCustomer.balance < amount)
             {
                 Console.WriteLine("Insufficient balance.");

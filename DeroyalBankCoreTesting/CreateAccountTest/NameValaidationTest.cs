@@ -19,8 +19,6 @@ namespace DeroyalBankTesting.CreateAccountTest
         [InlineData("A", true)]         // Single uppercase letter is valid
         public void IsValidName_ValidatesName(string name, bool expectedIsValid)
         {
-            //Arrange
-            //var instantEmail = new CreateAccount();
             // Act
             bool isValid = CreateAccount.IsValidName(name);
 

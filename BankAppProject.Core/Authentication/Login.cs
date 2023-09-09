@@ -26,7 +26,6 @@ namespace DeroyalBank.Core
             }
             else
             {
-               // var getCustomerList = ListOfCustomers.customerList;
                 bool found = CheckLogin(accountNo, password);
 
                 if (found)
@@ -62,55 +61,5 @@ namespace DeroyalBank.Core
             }
             return false;
         }
-
-        //    public bool AuthenticateUser(string accountNo, string password)
-        //    {
-        //        if (string.IsNullOrWhiteSpace(accountNo) || string.IsNullOrWhiteSpace(password))
-        //        {
-        //            return false;
-        //        }
-
-        //        foreach (var item in ListOfCustomers.customerList)
-        //        {
-        //            if (item.Key == accountNo)
-        //            {
-        //                Customer customer = item.Value;
-        //                string storedPassword = customer.GetPassword();
-
-        //                if (password == storedPassword)
-        //                {
-        //                    return true;
-        //                }
-        //            }
-        //        }
-
-        //        return false;
-        //    }
-
-
-
-        //public static void LoginUser(UserAuthenticationService authService)
-        //{
-        //    Console.WriteLine("Enter your Account Number: ");
-        //    string accountNo = Console.ReadLine();
-
-        //    Console.WriteLine("Enter your password: ");
-        //    string password = Console.ReadLine();
-
-        //    if (authService.AuthenticateUser(accountNo, password))
-        //    {
-        //        Logged.loggedAccount = accountNo;
-        //        Console.WriteLine("Login successful!");
-        //        Console.Clear();
-        //    }
-        //    else
-        //    {
-        //        Console.WriteLine("Invalid login Details. Try again");
-        //        Welcome.WelcomeCustomer();
-        //    }
-        //}
-
-
-
     }
 }
